@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "607b293b0c922f015bd7a9ff",
+    "name": "Felicia Mcclure",
+    "gender": "female",
+    "email": "feliciamcclure@bizmatic.com",
+    "phone": "+1 (885) 591-3861",
+    "address": "328 Sharon Street, Ballico, Illinois, 2287"
+  },
+  {
+    "_id": "607b293b91398413e1fc5b1a",
+    "name": "Lydia Oliver",
+    "gender": "female",
+    "email": "lydiaoliver@bizmatic.com",
+    "phone": "+1 (940) 475-2011",
+    "address": "424 Montrose Avenue, Roosevelt, Kentucky, 6861"
+  },
+  {
+    "_id": "607b293b63f6a6ec49e468e8",
+    "name": "Coleman Hancock",
+    "gender": "male",
+    "email": "colemanhancock@bizmatic.com",
+    "phone": "+1 (965) 565-3977",
+    "address": "915 College Place, Snelling, Ohio, 1725"
+  },
+  {
+    "_id": "607b293b5f62d49e295ce513",
+    "name": "Chelsea Dyer",
+    "gender": "female",
+    "email": "chelseadyer@bizmatic.com",
+    "phone": "+1 (910) 589-2773",
+    "address": "395 Glendale Court, Rote, South Dakota, 9217"
+  },
+  {
+    "_id": "607b293bfdf3daa4578cf4ba",
+    "name": "Lila Sanders",
+    "gender": "female",
+    "email": "lilasanders@bizmatic.com",
+    "phone": "+1 (846) 509-3391",
+    "address": "104 Debevoise Street, Smock, Colorado, 586"
+  },
+  {
+    "_id": "607b293b1db0f4624a715427",
+    "name": "Bush Cervantes",
+    "gender": "male",
+    "email": "bushcervantes@bizmatic.com",
+    "phone": "+1 (887) 493-3513",
+    "address": "556 Dewey Place, Hinsdale, Indiana, 5477"
+  },
+  {
+    "_id": "607b293b9b70ff37e3fe3451",
+    "name": "Wade Castro",
+    "gender": "male",
+    "email": "wadecastro@bizmatic.com",
+    "phone": "+1 (956) 440-2749",
+    "address": "634 Greenpoint Avenue, Kohatk, Virginia, 8843"
+  },
+  {
+    "_id": "607b293ba1e906f5e0a4305b",
+    "name": "Sargent Rodriquez",
+    "gender": "male",
+    "email": "sargentrodriquez@bizmatic.com",
+    "phone": "+1 (830) 414-2607",
+    "address": "625 Taylor Street, Loveland, Florida, 526"
+  },
+  {
+    "_id": "607b293b9352ae93b4ab9d0b",
+    "name": "Lynda Cote",
+    "gender": "female",
+    "email": "lyndacote@bizmatic.com",
+    "phone": "+1 (921) 570-2032",
+    "address": "512 Clark Street, Faywood, South Carolina, 9280"
+  },
+  {
+    "_id": "607b293bc5deb4778d2f532d",
+    "name": "Burt Nieves",
+    "gender": "male",
+    "email": "burtnieves@bizmatic.com",
+    "phone": "+1 (967) 537-3648",
+    "address": "820 Huron Street, Tecolotito, Delaware, 5519"
+  },
+  {
+    "_id": "607b293b74bed843628620ab",
+    "name": "Barnes Mueller",
+    "gender": "male",
+    "email": "barnesmueller@bizmatic.com",
+    "phone": "+1 (942) 413-2460",
+    "address": "390 Creamer Street, Calvary, Maine, 5206"
+  }
+]
