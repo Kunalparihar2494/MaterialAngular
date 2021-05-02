@@ -674,7 +674,7 @@ class MainService {
         this._http = _http;
     }
     getData() {
-        return this._http.get('../assets/tableData.json');
+        return this._http.get('assets/tableData.json');
     }
 }
 MainService.ɵfac = function MainService_Factory(t) { return new (t || MainService)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵinject"](_angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClient"])); };
